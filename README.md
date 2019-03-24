@@ -1,2 +1,2 @@
-# data-analysis-project
-# .....
+# data-analysis-project #
+Vision: Programming is more than writing code. The ultimate goal of the projects in this course is that you learn to formulate a programming problem of your own choice, and find your own way to solve it, and present the results. The bullets below are minimum requirements, but otherwise it is very much up to you, what you will like to do with your project. I hope to see some creative ideas!
